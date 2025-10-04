@@ -1,2 +1,2 @@
-**Nama**: Rizka Amaniah  \n 
+**Nama**: Rizka Amaniah  
 **NPM**: 2310631250076" 
